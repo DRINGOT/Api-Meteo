@@ -8,5 +8,6 @@ How to use:
 - clone this repo
 - Do a ```npm install``` in your folder
 - start the app with: node app.js
+- U can specify ur city with: ```node app.js paris,fr``` for example
 
 I hope this will help u :wink:
