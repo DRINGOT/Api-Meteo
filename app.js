@@ -11,7 +11,7 @@ const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${pr
 
 //QUESTION
 if (!city){ 
-    return console.log(`Il faut écrire le nom d'une ville dont tu souhaite connaitre la météo\n  \n(par exemple: lille,fr)`)
+    return console.log(`Il faut écrire le nom d'une ville dont tu souhaite connaitre la météo\n  \n(par exemple: node app.js lille,fr)`)
 }
 
 
