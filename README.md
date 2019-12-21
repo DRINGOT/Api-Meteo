@@ -1,4 +1,6 @@
-# this is a prompt Terminal meteo app
+# This is a prompt Terminal meteo app
+
+This app is based on the API of https://openweathermap.org/
 
 How to use:
 - clone this repo
