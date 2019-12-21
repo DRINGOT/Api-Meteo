@@ -1,5 +1,7 @@
 # This is a prompt Terminal meteo app
 
+(French version)
+
 This app is based on the API of https://openweathermap.org/
 
 How to use:
