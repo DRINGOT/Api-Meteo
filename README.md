@@ -6,14 +6,14 @@ This app is based on the API of [openweather](https://openweathermap.org/)
 
 How to use:
 
-- clone this repo
+-   Clone this repo
 
-- Do a ```npm install``` in your folder
+-   Do a ```npm install``` in your folder
 
-- start the app with: node app.js
+-   Start the app with: node app.js
 
-- U can specify ur city with: ```node app.js paris,fr``` for example
+-   U can specify ur city with: ```node app.js paris,fr``` for example
 
-  - List of [2-Letter Country Name Abbreviations](https://www.willmaster.com/blog/misc/country-name-abbreviations.php)
+  -   List of [2-Letter Country Name Abbreviations](https://www.willmaster.com/blog/misc/country-name-abbreviations.php)
 
 I hope this will help u :wink:
